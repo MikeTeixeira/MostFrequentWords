@@ -1,0 +1,158 @@
+The assignee for this patent application is Elements of Genius Inc. (Mt. Pleasant, South Carolina, United States).
+Reporters obtained the following quote from the background information supplied by the inventors: "Adherence to long-term medical
+therapy is the extent to which a person's behavior (e.g., taking medication, following a diet, masking lifestyle changes) is aligned with
+and in conformance with recommendations from their healthcare provider. Nonadherence occurs when a patient fails to use the
+prescribed treatment correctly, such as taking an incorrect amount of medication or at the wrong time. Nonadherence is estimated at
+a rate of 50% often leading to avoidable hospitalization, and has a significant financial impact on healthcare systems, nationally and worldwide.
+"Medication nonadherence is multifactorial and possible causes include cognitive function, psychological issues, self-reliance,
+memory-issues, health literacy, polypharmacy, and the lack of a care support system. There are two types of nonadherence:
+unintentional and intentional, unintentional nonadherence occurring when patients involuntarily fail to use the prescribed treatment.
+These factors and behaviors may put patients at the highest risk for medication nonadherence. Conventional interventions for
+patients demonstrating tendencies towards medication nonadherence incorporate one or methods such as counseling, telephone
+calls, message alerts and use of pillboxes. However, it is challenging to implement these methods in routine healthcare. The
+proliferation of computing and networking technologies and smaller form factor computing devices such as tablets, smart phones, etc.
+are increasingly used for personal purposes. These devices, for example smart phones, have been proposed to provide
+communication and connectivity to stand-alone automated pill dispensers, enabling care givers or healthcare providers to provide
+more effective interventions to patients. Despite patients' increasing use of these more sophisticated devices (e.g. with
+communication and connectivity functions) to manage their daily activities and healthcare routines, improvements on existing pill
+dispensing apparatuses and medication management methods are necessary to optimize patient compliance and medication
+adherence."
+In addition to obtaining background information on this patent application, VerticalNews editors also obtained the inventor's summary
+information for this patent application: "Disclosed are an interactive pill dispensing system, apparatus, and methods with advanced
+capabilities for medication management and adherence. In the broadest terms, the system comprises an advanced pill dispensing
+apparatus with one or more user-interfaces (e.g., voice-controlled), computing, mobile communication, networking, and Artificial
+Intelligent (AI) digital assistant capabilities. These capabilities enable the pill dispensing user (patient) to be connected to a support
+system of care givers (e.g., family member, caregiver, etc., healthcare providers (e.g., nurse, physicians), and service providers (e.g.,
+pharmacist, wholesalers, pharmacy benefit manager (PBM)). The apparatus functions as an integral component of an ecosystem for
+medication management and adherence. The ecosystem comprises one or more said apparatus, local area network (LAN), wide area
+network (WAN), Internet of Things (IoTs), a cellular network, Internet, ISP, mobile cellular phone (e.g., smart phone), local server,
+remote server, cloud server, cloud computing services, laptop, desktop computer, database, application software, smart appliances
+(e.g., Amazon Echo.RTM./Dot.RTM., TV, etc.). One or more of said components are configured to enable seamless communication
+between patient, caregivers, healthcare providers, and service providers.
+"According to an aspect of the present disclosure, an interactive pill dispensing apparatus provides one or more user functions
+including, but not limited to, voice, data, SMS reminders, alerts, medication adherence monitoring, location via SMS, GPS location,
+and 911 emergency services. The said device incorporates, within or user accessible of a self-contained portable unit, one or more
+microprocessor, microcontroller, micro GSM/GPRS chipset, micro SIM module, read-write memory device, read-only memory device
+(ROM), random access memory (RAM), flash memory, memory storage device, I-O devices, buttons, display, LED, user interface,
+rechargeable battery, microphone, speaker, wireless transceiver (e.g., RF, WiFi, Bluetooth, IoT), RF electronic circuits, audio
+CODEC, cellular antenna, GPS antenna, WiFi antenna, Blue Tooth antenna, IoT antenna, vibrating motor (output), preferably in
+combination, to function fully as a wireless mobile cellular communication unit. The device can perform one or more executable
+
+codes, algorithms, methods, and/or software instructions for automated voice recognition-response, natural language understanding-
+processing, and wireless mobile cellular communication. One or more components (e.g., buttons, display, user interface, speakers,
+
+microphone) are configured to be accessible to a user, on the external surface of a unit/housing.
+"In another aspect of the present disclosure, an interactive pill dispensing apparatus incorporates, inside or user accessible, one or
+more storage receptacles for storing one or more pills, pill inventory sensor, environmental sensor, sensor detection/signal processor,
+analog digital convertor, an actuator for dispensing one or more pills from the storage receptacle, a receptacle for receiving a
+dispensed pill, user identification component (e.g. fingerprint detector), a charge-coupled device (CCD) camera, data reader (e.g.,
+barcode reader/scanner), RFID reader. In an alternative embodiment, the apparatus may be configured to receive, by insertion into
+one or more compartment, at least one self-contained pill storage unit (e.g. cartridge, bottle, etc.). The self-contained pill storage unit
+can possess a data storage component (e.g., linear barcode, matrix barcode, RFID). The inserted unit is controllable to allow the
+dispensing apparatus to access pills and dispense them under automated instructions. These additional components may function in
+combination with said computing components (e.g. processors, memory devices, etc.) to perform one or more executable codes,
+algorithms, methods, and/or software instructions for motor actuation, user identification, image capture, image processing, sensor
+detection, sensor signal processing, or the like, preferably to function as an advanced pill dispensing apparatus. The user may
+access (i.e., accessible) or interact with device functions through one or more button, fingerprint detector, camera, touch screen,
+voice-controlled speech user interface, or smart phone app.
+"According to aspects of the present disclosure, the interactive pill dispensing apparatus can function in combination with an
+application software platform accessible to multiple clients (users) executable on one or more remote servers, to preferably establish
+the communication ecosystem. The ecosystem enables communication and social networking for a user (patient), family, caregivers,
+healthcare providers, and service providers. Furthermore, the device may function in combination with one or more remote servers,
+cloud control services, to perform natural language or speech-based interactions with the user, preferably through a voice-controlled
+speech user interface.
+"In one embodiment, the interactive pill dispensing apparatus can be configured to function in combination with one or more external
+
+devices or smart appliances possessing AI digital assistant capabilities. The user may interact with the AI digital assistant, through a
+voice-controlled speech user interface, to access or control the pill dispensing apparatus. The AI digital assistant can include, for
+example, Amazon Alexa.RTM., Google Assistant.TM., Apple Siri, Microsoft Cortana, Samsung's Bixby, or the like. The interactive pill
+dispenser and digital assistant capable devices may be paired and/or programmed using a smart phone app or through cloud
+services, APIs, associated with said digital assistant capable devices. Exemplary digital assistant capable devices include but are not
+limited to Echo.RTM., Dot.RTM., Show.RTM. from Amazon and Google Home.RTM. In another embodiment, one or more clients can
+communicate with the interactive pill dispensing apparatus using a remote smart appliance, possessing AI digital assistant
+capabilities, smart phone, smart phone apps, lap top, desk top, or the like.
+"According to another aspect of the present disclosure, the voice-controlled speech user interface of the advanced pill dispenser
+detects or monitors audio input/output and interacts with a user to determine a user intent based on natural language understanding
+of the user's speech. The voice-controlled speech user interface is configured to capture user utterances and provide them to the
+control service. The combination of the speech interface device and one or more applications executed by the control service serves
+as a relational agent or AI digital assistant. The relational agent provides conversational interactions, utilizing automated voice
+recognition-response, natural language processing, predictive algorithms, and the like, to interact and fulfill user requests. These
+interactions between the relational agent and the user may include but are not limited to scheduling dosing time, alerting user, via
+voice or audible sound, that a pill has been dispensed, reminding user to take medication, answering medication related questions,
+querying user status, contacting 911 emergency services, scheduling transportation services (e.g. Uber.RTM., Circulation.TM.),
+recording and sending messages (e.g., text, voice, video), scheduling doctor's appointments, contacting physicians to obtain refill
+prescriptions, contacting pharmacists/PMBs to refill prescriptions, facilitating video communication, or the like.
+"According to another aspect of the present disclosure, the interactive pill dispensing apparatus can communicate with a secured
+HIPAA-compliant remote server. The remote server is accessible through one or more computing devices, including but not limited to,
+desktop, laptop, tablet, mobile phone, smart appliances (i.e. smart TVs), or the like. The remote server contains a support application
+software that include a database for storing user (s) information. The application software provides a collaborative working
+environment to enable a voluntary, active, and collaborative effort between the advanced pill dispenser user, health care
+team/providers, caregivers, family members, and service providers. The software environment allows for, but is not limited to, daily
+tracking of the location of the device, monitoring medication adherence, sending-receiving text messages, push notifications,
+sending-receiving voice messages, sending-receiving videos, streaming instructional videos, scheduling doctor's appointments,
+patient education information, caregiver education information, feedback to healthcare providers, feedback to pharmacists, feedback
+to PBMs, or the like. The application software can be used to store skills relating to the self-management and medication adherence
+and persistence to therapy. The application software may contain functions for predicting or monitoring user/patient behaviors and
+non-compliance to pharmacologic therapy. The application software may interact with an electronic health or medical record system
+(e.g., EMR).
+
+"According to yet another aspect of the present disclosure, the secured remote server is also accessible using the stand-alone voice-
+controlled speech user interface device (i.e. AI digital assistant capable device) or, a speech user interface is incorporated into one or
+
+more smart appliance, or mobile app, capable of communicating with the same or another remote server, providing cloud-based
+control service, to perform natural language or speech-based interaction with the user, acting as the relational agent. The relational
+agent provides conversational interactions, utilizing automated voice recognition-response, natural language learning-processing, and
+performs various functions to: interact with the user, fulfill user requests, educate, monitor compliance, monitor persistence, provide
+one or more skills, ask one or more questions, store responses/answers, perform predictive algorithms with user responses,
+determine health status and well-being, play games, make phone calls, or provide suggestions for corrective actions including
+instructions for medication management and adherence.
+"According to another aspect of the present disclosure, the aforementioned skills are developed and accessible through the relational
+agent. These skills may include but are not limited to specific educational topics, medication information, prescription insert
+information, medication nutrition related information (e.g., avoid eating vitamin x while taking warfarin), instructions for taking
+medication, improving medication adherence, physical rehabilitation, improving cognition, increasing persistence, adverse symptoms
+management, proprietary developed skills, coping skills, behavioral skills, skills for daily activities, skills for caregivers, or other skills
+disclosed herein.
+"A user interacts with the relational agent by providing responses or answers to clinically validated questionnaires or instruments. The
+questionnaires enable the monitoring of patient behaviors, medication compliance, medication adherence, medication persistence,
+wellness, symptoms, adverse events monitoring, and the like. The responses or answers provided to the relational agent serve as
+input to one or more predictive algorithms to calculate a risk stratification profile and trends. Such a profile can provide an
+assessment for the need for any intervention or behavior modification required by either the user, caregivers, family members, or
+healthcare team/providers.
+"Specific embodiments of the present disclosure provide for an interactive pill dispensing apparatus comprising: a housing comprising
+at least one pill storage receptacle; a pill inventory sensor operably engaged with the at least one pill storage receptacle; an actuator
+operably engaged with the at least one pill storage unit and being configured to selectively dispense one or more pills; an input/output
+device configured to receive a user authentication input and a prescription authentication input; and, a control unit being operably
+engaged with the pill inventory sensor, the actuator, and the input/output device, the control unit comprising at least one processor
+and at least one non-transitory computer-readable medium having one or more instructions stored thereon to cause the processor to
+perform one or more actions, the one or more actions comprising: authenticating a user based on the user authentication input;
+authenticating a prescription based on the prescription authentication input; receiving an input from the pill inventory sensor;
+determining a pill inventory according to the input from the pill inventor sensor; and, engaging the actuator to dispense one or more
+pills from the at least one pill storage unit.
+"Further specific embodiments of the present disclosure provide for an interactive pill dispensing system comprising a housing
+comprising at least one pill storage receptacle; a pill inventory sensor operably engaged with the at least one pill storage receptacle;
+an actuator operably engaged with the at least one pill storage unit and being configured to selectively dispense one or more pills; an
+input/output device configured to receive a user authentication input and a prescription authentication input; a control unit being
+operably engaged with the pill inventory sensor, the actuator, and the input/output device, the control unit comprising a wireless
+communication chipset, at least one processor and at least one non-transitory computer-readable medium having one or more
+instructions stored thereon to cause the processor to perform one or more actions, the one or more actions comprising authenticating
+a user based on the user authentication input, engaging the actuator to dispense one or more pills from the at least one pill storage
+unit according to one or more dispensing rules, and storing dispensing data in the at least one non-transitory computer-readable
+medium; and, a mobile electronic device communicably engaged with the control unit via at least one wireless communications
+protocol, the mobile electronic device being configured to receive and display dispensing data from the control unit.
+"Still further specific embodiments of the present disclosure provide for an interactive pill dispensing system comprising: a housing
+comprising at least one pill storage receptacle; a pill inventory sensor operably engaged with the at least one pill storage receptacle;
+an actuator operably engaged with the at least one pill storage unit and being configured to selectively dispense one or more pills; an
+input/output device configured to receive a user authentication input and a prescription authentication input; a control unit being
+operably engaged with the pill inventory sensor, the actuator, and the input/output device, the control unit comprising a wireless
+communication chipset, at least one processor and at least one non-transitory computer-readable medium having one or more
+instructions stored thereon to cause the processor to perform one or more actions, the one or more actions comprising authenticating
+a user based on the user authentication input, engaging the actuator to dispense one or more pills from the at least one pill storage
+unit according to one or more dispensing rules, and storing dispensing data in the at least one non-transitory computer-readable
+medium; and, a remote application server communicably engaged with the control unit via at least one wireless communications
+network, the remote application server comprising an application database and an application software, the application software
+being configured to establish one or more secure user associations and one or more secure device associations with the control unit.
+"In summary, the system comprises an advanced pill dispensing apparatus, functioning as an integral component of an ecosystem for
+medication management and patient adherence. It utilizes computing, mobile communication, networking, and Artificial Intelligence
+(AI) to enable a user to be connected to a support system of care givers, healthcare providers, and service providers. The advanced
+capabilities and functions can be employed to decrease patient non-compliance in an optimal manner."
+The claims supplied by the inventors are:
