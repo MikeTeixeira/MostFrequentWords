@@ -1,3 +1,7 @@
+package com.mostfrequentwords;
+
+import com.mostfrequentwords.TextCounter;
+
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
@@ -24,7 +28,7 @@ public class CustomFileReader {
         try {
 
             if(!file.exists())
-                throw new FileNotFoundException("Cannot find file.");
+                throw new FileNotFoundException("File not found.");
 
             if(!file.getName().endsWith(".txt"))
                 throw new FileNotFoundException("File provided does not end with .txt");

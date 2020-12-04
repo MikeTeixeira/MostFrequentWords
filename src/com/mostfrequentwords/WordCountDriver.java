@@ -1,3 +1,5 @@
+package com.mostfrequentwords;
+
 import java.io.File;
 
 public class WordCountDriver {

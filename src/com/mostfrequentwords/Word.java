@@ -1,10 +1,8 @@
+package com.mostfrequentwords;
+
 public class Word extends TextCounter {
     private String word;
     private int count;
-
-    public Word(){
-        super();
-    }
 
 
     public Word(String word, int count){
@@ -27,7 +25,7 @@ public class Word extends TextCounter {
 
     @Override
     public String toString() {
-        return "Word: " + word + " ---------- Number of times appeared: " + count;
+        return "com.mostfrequentwords.Word: " + word + " ---------- Number of times appeared: " + count;
     }
 }
 

@@ -1,3 +1,5 @@
+package com.mostfrequentwords;
+
 import java.util.*;
 
 public class TextCounter {
@@ -81,9 +83,6 @@ public class TextCounter {
         storeMostFrequentInList();
     }
 
-    public PriorityQueue<Word> getMaxHeapWordTextCounter() {
-        return maxHeapWordTextCounter;
-    }
 
     public ArrayList<Word> getMostFrequentWords() {
         return mostFrequentWords;
